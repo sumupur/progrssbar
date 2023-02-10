@@ -1,0 +1,19 @@
+{
+  "name": "react-native-progressbar-with-linear-gradient",
+  "version": "1.0.0",
+  "description": "This is progressbar with linear gradient color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Progressbar"
+  ],
+  "author": "sumupur",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.1.0",
+    "react-native": "0.70.3",
+    "react-native-linear-gradient": "^2.6.2"
+  }
+}
